@@ -1,7 +1,13 @@
+html {
+    height: 100%;
+}
+
 body {
-    
     background: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
-    background-repeat: none;
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 h1 {
@@ -22,10 +28,10 @@ p {
 }
 
 footer {
-    color:#a2b288;
     text-align: center;
 }
 
 footer a {
-    margin: 0 10px; 
+    margin: 0 10px;
+    color:#a2b288;
 }
