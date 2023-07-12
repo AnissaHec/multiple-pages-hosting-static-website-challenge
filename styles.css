@@ -1,0 +1,14 @@
+body {
+    
+    background: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
+}
+
+h1 {
+    color: #a2b288;
+    text-align: center;
+}
+
+footer {
+    color: rgba(136, 68, 136, 0.4);
+    text-align: center;
+}
