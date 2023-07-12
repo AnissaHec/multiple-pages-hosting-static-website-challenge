@@ -1,6 +1,7 @@
 body {
     
     background: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
+    background-repeat: none;
 }
 
 h1 {
@@ -8,7 +9,23 @@ h1 {
     text-align: center;
 }
 
-footer {
+.lavender-photo {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+
+p {
     color: rgba(136, 68, 136, 0.4);
     text-align: center;
+}
+
+footer {
+    color:#a2b288;
+    text-align: center;
+}
+
+footer a {
+    margin: 0 10px; 
 }
